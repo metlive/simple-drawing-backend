@@ -1,6 +1,0 @@
-package: simple-drawing-backend
-import:
-- package: github.com/gorilla/websocket
-- package: github.com/lucasb-eyer/go-colorful
-- package: github.com/tidwall/gjson
-- package: github.com/satori/go.uuid
